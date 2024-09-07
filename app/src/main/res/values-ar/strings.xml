@@ -413,6 +413,7 @@
     <string name="nc_server_unsupported">الخادوم ليس فيه تطبيق Talk مدعوم </string>
     <string name="nc_server_url">عنوان الخادوم https://…</string>
     <string name="nc_server_version">%1$s يعمل فقط مع %2$s 13 وأكثر</string>
+    <string name="nc_set_password">تعيين كلمة المرور</string>
     <string name="nc_settings">الإعدادات</string>
     <string name="nc_settings_account_updated">تم تحديث حسابك الموجود بالفعل، بدلاً من إضافة حساب جديد</string>
     <string name="nc_settings_advanced_title">مُتقدّمة</string>
